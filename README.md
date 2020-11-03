@@ -9,9 +9,7 @@ Project is ready and I will add source code soon.
 
 *Add selling (Selling time , selling prise and Costumer informations);*
 
-
-
-
+*Company budget managment (Company expenses info, Selling info and company budget info);*
 
 
 # Screenshots
