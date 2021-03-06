@@ -11,6 +11,25 @@ Project is ready and I will add source code soon.
 
 *Company budget managment (Company expenses info, Selling info and company budget info);*
 
+Proqramımız asan interfeys və asan istifadəsi tam olaraq istifadəçilər düşünülərək yaradılmasından xəbər verir. Proqramımızda aşağıdakı modullar mövcuddur:
+
+*İşçilər modulu*
+
+*Maşınlar modulu*
+
+*Hesabatlar modulu*
+
+*Satışlar modulu*
+
+Vəzifələrinə görə (Direktor , Direktor müavini, Satış mütəxəssisi və.s) işçilərə sistemdəki modullara giriş icazəsi mövcuddur.
+
+*Günlük büdcə , xərc , satış hesabatlarının izlənməsi.*
+
+*Əməliyyatlar zamanı maşınlara statuslar verməklə onlara daha rahat nəzarət edə bilərsiniz.*
+
+*Satış və xərclərin əlavə edilib izlənilməsi hesabatların çıxardılması.*
+
+*Maşınlara statusların təyin edilməsi ilə siz onlar daha rahat idarə edib daha rahat satış apara bilərsiniz.*
 
 # Screenshots
-<img src="https://user-images.githubusercontent.com/57041713/98452502-4fdb8000-2169-11eb-90db-792e7dfbac79.png" width="40%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452504-510cad00-2169-11eb-98dd-2769c1029920.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452509-5833bb00-2169-11eb-8f42-30a1600d8135.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452510-59fd7e80-2169-11eb-8710-a3faa82cd3cf.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452511-5b2eab80-2169-11eb-8398-52469a054cae.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452513-5c5fd880-2169-11eb-8c0a-9d10a566cc3d.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452515-5e299c00-2169-11eb-9320-40623a268fd8.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/57041713/98452516-5ff35f80-2169-11eb-9a8d-227f37d2bc9d.png" width="45%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/110209359-933ec480-7ea5-11eb-9e51-68f1bd7687c7.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/110209360-95088800-7ea5-11eb-91f3-0b83bda26964.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/110209361-9639b500-7ea5-11eb-9c46-626bf889f14e.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/110209364-989c0f00-7ea5-11eb-81cd-3627b6049fc7.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/110209366-9a65d280-7ea5-11eb-8e71-8e6e31672ac9.png" width="50%"></img> 
