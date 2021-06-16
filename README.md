@@ -31,4 +31,12 @@ Vəzifələrinə görə (Direktor , Direktor müavini, Satış mütəxəssisi v�
 
 *Maşınlara statusların təyin edilməsi ilə siz onlar daha rahat idarə edib daha rahat satış apara bilərsiniz.*
 
-# Screenshots<img src="https://user-images.githubusercontent.com/57041713/122299843-910dec80-cf0f-11eb-973b-9f3dbee560a5.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299855-9408dd00-cf0f-11eb-9efb-c688870634e6.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299867-966b3700-cf0f-11eb-9725-f84e29bef1c0.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299872-979c6400-cf0f-11eb-85f1-ab6043ed8d37.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299878-99662780-cf0f-11eb-82d9-5b25760c154c.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299885-9b2feb00-cf0f-11eb-93e3-b17cec6e5c30.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299890-9cf9ae80-cf0f-11eb-8c90-bf55efeaa1a1.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299904-a420bc80-cf0f-11eb-8148-fcd059c32bf8.jpg" width="30%"></img> <img src="https://user-images.githubusercontent.com/57041713/122299914-a5ea8000-cf0f-11eb-8523-99b81a9599e0.jpg" width="30%"></img>  
+# Screenshots
+<img src="https://user-images.githubusercontent.com/57041713/122299843-910dec80-cf0f-11eb-973b-9f3dbee560a5.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299855-9408dd00-cf0f-11eb-9efb-c688870634e6.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299867-966b3700-cf0f-11eb-9725-f84e29bef1c0.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299872-979c6400-cf0f-11eb-85f1-ab6043ed8d37.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299878-99662780-cf0f-11eb-82d9-5b25760c154c.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299885-9b2feb00-cf0f-11eb-93e3-b17cec6e5c30.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299890-9cf9ae80-cf0f-11eb-8c90-bf55efeaa1a1.png" width="30%"></img> 
+<img src="https://user-images.githubusercontent.com/57041713/122299914-a5ea8000-cf0f-11eb-8523-99b81a9599e0.jpg" width="30%"></img>  
